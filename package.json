@@ -2,7 +2,7 @@
   "name": "cms-nk-7-soundstudio",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "nk7soundstudio cms",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
