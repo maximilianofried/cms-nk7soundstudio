@@ -49,6 +49,9 @@
     },
     "youtube": {
       "type": "string"
+    },
+    "vimeo": {
+      "type": "string"
     }
   }
 }
